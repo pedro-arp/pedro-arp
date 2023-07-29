@@ -63,7 +63,7 @@ Estou sempre em busca de aprimorar meus conhecimentos e habilidades tanto na ár
 ### <img align="center" alt="graphic image" width="25" src="https://github.com/joaopauloaramuni/joaopauloaramuni/raw/main/img/graphic.gif?raw=true"/> GitHub Stats:
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-arp&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-arp&layout=donut-vertical&theme=radical)](https://github.com/pedro-arp/github-readme-stats)
+
 
 ***
 <p>
