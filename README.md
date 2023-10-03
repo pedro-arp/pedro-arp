@@ -3,7 +3,7 @@
 <ul>
  <li>Name: Pedro Augusto </li>   
  <li>Age: 21 </li> 
- <li> Information Systems | DevOps 🇧🇷<br></li> 
+ <li> Information Systems 🇧🇷<br></li> 
  <li> Languages: 🇵🇹-🇧🇷 | en-us	 <br></li> 
   </ul>
 <h3>Technologies Used</h3>
