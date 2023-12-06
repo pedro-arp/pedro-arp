@@ -10,12 +10,12 @@
 <ul>
   <li>Java</li>
   <li>SQL</li>
-  <li>JavaScript</li>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>Spring Boot</li>
+  <li>MySQL</li>
+  <li>Docker</li>
 </ul>
 <h3>Objectives</h3>
-<p>Become a Java back-end software developer with knowledge in database and skills in solving programming logic problems involving business rules.</p>
+<p>Java back-end developer skilled in solving programming logic problems, with expertise in database integration and application of business rules. Passionate about crafting efficient solutions to complex data challenges</p>
 
 ***
 <div align="center">
