@@ -15,7 +15,8 @@
   <li>Docker</li>
 </ul>
 <h3>Objectives</h3>
-<p>Java back-end developer skilled in solving programming logic problems, with expertise in database integration and application of business rules. Passionate about crafting efficient solutions to complex data challenges</p>
+<p>
+Java back-end developer in the field of solving logical programming problems, with experience in database integration and application of business rules. Passionate about creating efficient solutions for complex data challenges.</p>
 
 ***
 <div align="center">
