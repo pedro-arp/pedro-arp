@@ -11,8 +11,6 @@
   <li>Java</li>
   <li>SQL</li>
   <li>Spring Boot</li>
-  <li>MySQL</li>
-  <li>Docker</li>
 </ul>
 <h3>Objectives</h3>
 <p>
