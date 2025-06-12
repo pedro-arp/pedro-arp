@@ -6,12 +6,6 @@
  <li> Information Systems 🇧🇷<br></li> 
  <li> Languages: 🇵🇹-🇧🇷 | en-us	 <br></li> 
   </ul>
-<h3>Technologies Used</h3>
-<ul>
-  <li>Java</li>
-  <li>SQL</li>
-  <li>Spring Boot</li>
-</ul>
 <h3>Objectives</h3>
 <p>
 Java back-end developer in the field of solving logical programming problems, with experience in database integration and application of business rules. Passionate about creating efficient solutions for complex data challenges.</p>
