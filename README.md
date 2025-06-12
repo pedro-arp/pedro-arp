@@ -2,7 +2,7 @@
   <h1> About me </h1> 
 <ul>
  <li>Name: Pedro Augusto </li>   
- <li>Age: 22 </li> 
+ <li>Age: 23 </li> 
  <li> Information Systems 🇧🇷<br></li> 
  <li> Languages: 🇵🇹-🇧🇷 | en-us	 <br></li> 
   </ul>
